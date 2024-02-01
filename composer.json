@@ -1,0 +1,13 @@
+{
+  "name": "sdev328/pets",
+  "description": "Week 5 Practice",
+  "authors": [
+    {
+      "name": "Addison Farley",
+      "email": "farley.addison@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
